@@ -1,9 +1,5 @@
-body {
-    background-color: lightblue;
-}
 
 h1 {
-     color: white;
      text-align: center;
 }
 
@@ -13,19 +9,27 @@ p {
 }
  
 
+#int {
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
 
-.text{
-		text-align: center;
-		
-		margin-top:50px;
-		margin-bottom: 150px;
-		margin-right: 350px;
-		margin-left: 350px;
-
+#con {
+	margin-top: 100px;
+	margin-bottom: 50px;
 }
 
 #bio{
 	 margin-top:100px;
+	 margin-bottom: 50px;
+}
+
+#heading{
+	margin-top: 100px;
+}
+
+#a{
+	margin-bottom: 50px;
 }
 .button {
   font: bold 20px Arial;
@@ -38,7 +42,13 @@ p {
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
 }
-		
+
+
+
+#edu{
+	margin-top:100px;
+	margin-bottom:50px;
+}
 
 
 
